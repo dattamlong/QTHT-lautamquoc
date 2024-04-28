@@ -1,7 +1,8 @@
-version: ’3 .8 ’
+version: '3.8'
+
 services:
   lautamquoc.com:
     build: .
     container_name: lautamquoc.com
     ports:
-      - ’ 80:80 ’
+      - '80:80'
